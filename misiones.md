@@ -1,4 +1,0 @@
-# Misiones
-
-* Investigar al malo
-* 
